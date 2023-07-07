@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lucky Number</string>
+    <string name="welcome_to_lucky_number">Welcome to Lucky Number</string>
+    <string name="welcome">\t\tWELCOME </string>
+    <string name="this_is_a_lucky_number_application_nthat_tells_you_the_lucky_number_for_you">\t\tThis is a lucky number application \nThat tells you the lucky number for you.</string>
+    <string name="get_started">Get Started</string>
+    <string name="lucky_number">Lucky Number</string>
+    <string name="please_enter_your_name">Please enter your name..</string>
+    <string name="okay">Okay</string>
+    <string name="cancel">Cancel</string>
+    <string name="hello">HELLO</string>
+    <string name="share_with_your_friend_s">Share with your friend\'s</string>
+</resources>
